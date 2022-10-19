@@ -1,4 +1,6 @@
-### Nice to meet you! 
+# Welcome to my page...nice to meet you! 🎉
+
+## Let's connect!
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://coucode.github.io/#)
 [![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/cecilia-ou)
