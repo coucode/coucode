@@ -1,6 +1,6 @@
 # Welcome to my page...nice to meet you! 🎉
 
-I am an experienced professional with proficiency in JavaScript, Python, SQL, and web development frameworks such as React, Redux, Express, and Flask. I have a strong background in TDD, OOP, REST API, and Agile/Scrum methodologies and am skilled in project management, training, and data analysis. My previous experience in various leadership roles involved cross-functional collaboration, process creation, and developing and implementing training programs. I am seeking a role in full-stack, backend, or data engineering.
+I'm an experienced professional with proficiency in JavaScript, Python, SQL, and web development frameworks including React, Redux, Express, and Flask. I have a strong background in TDD, OOP, REST API, and Agile/Scrum methodologies, and I'm skilled in project management, training, and data analysis. In my previous leadership roles, I collaborated cross-functionally, created processes, and developed and implemented training programs. I'm currently seeking a role in full-stack, backend, or data engineering.
 
 ## Let's connect!
 
