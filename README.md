@@ -1,5 +1,7 @@
 # Welcome to my page...nice to meet you! 🎉
 
+I am an experienced professional with proficiency in JavaScript, Python, SQL, and web development frameworks such as React, Redux, Express, and Flask. I have a strong background in TDD, OOP, REST API, and Agile/Scrum methodologies and am skilled in project management, training, and data analysis. My previous experience in various leadership roles involved cross-functional collaboration, process creation, and developing and implementing training programs. I am seeking a role in full-stack, backend, or data engineering.
+
 ## Let's connect!
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://coucode.github.io/#)
@@ -29,6 +31,16 @@
 ![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+
+In my free time I enjoy:
+* Spending time with my Shiba Inu, Boba
+* Reading books about programming, skills/personal development, historical fiction, and epic fantasy
+* Climbing/Bouldering
+* Trying out new restaurants/boba shops
+* Partaking in spicy food challenges
+* Hiking, walking, and exploring all the beautiful outdoor spaces in the Bay Area
+* Gaming on my PS5 or Switch
+
 
 ## Stats
 ![](https://komarev.com/ghpvc/?username=coucode&color=71d4d2&style=for-the-badge)
