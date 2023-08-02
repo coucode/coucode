@@ -1,12 +1,14 @@
 # Welcome to my page...nice to meet you! 🎉
 
-I'm an experienced professional with proficiency in JavaScript, Python, SQL, and web development frameworks including React, Redux, Express, and Flask. I have a strong background in TDD, OOP, REST API, and Agile/Scrum methodologies, and I'm skilled in project management, training, and data analysis. In my previous leadership roles, I collaborated cross-functionally, created processes, and developed and implemented training programs. I'm currently seeking a role in full-stack, backend, or data engineering.
+## About Me
+I'm passionate about troubleshooting and solving tough problems. There's nothing more satisfying than delving into the heart of an issue, gaining a comprehensive understanding, and developing the perfect solution.
 
-## Let's connect!
+Throughout my career, I've embraced diverse roles in Operations Management, Quality Assurance, and Learning and Development, continuously seeking new ways to expand my skill set and horizons. This diverse experience has provided me with a valuable skill set for Software Engineering, centered on user experience, innovation, problem-solving, pragmatism, authenticity, efficiency, continuous growth, and persistence.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://coucode.github.io/#)
-[![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/cecilia-ou)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ceciliasou)
+My fascination with software development began long ago, but it truly flourished when I delved into SQL for the first time. The experience of assembling millions of seemingly unrelated data pieces to uncover valuable insights ignited a deep passion within me. I became determined to elevate my skills and channel that obsession into creating software that delivers genuine value.
+
+## Interests
+An adventurer at heart, I find joy in spending time with my Shiba Inu, Boba, conquering indoor bouldering challenges, and expanding my knowledge through podcasts and books about personal development, programming, historical fiction, and epic fantasy. I also enjoy crafting new recipes, exploring new restaurants, coffee shops, and boba places, immersing myself in open-world RPGs, competing in FPS matches, playing puzzle games on my PS5 or Switch, and indulging in board games. My world is a constant journey of exploration and growth, where every moment brings the thrill of learning and embracing life's wonders. I find genuine excitement in trying new things and expanding my understanding of the world around me.
 
 ## Languages, Frameworks, and Tools
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -28,15 +30,13 @@ I'm an experienced professional with proficiency in JavaScript, Python, SQL, and
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
-## Hobbies & Interests
-In my free time I enjoy:
-* Spending time with my Shiba Inu, Boba
-* Climbing/Bouldering
-* Reading books about programming, skills/personal development, historical fiction, and epic fantasy
-* Trying out new restaurants, bakeries, coffee shops, and boba shops
-* Partaking in spicy food challenges
-* Hiking, walking, and exploring all the beautiful outdoor spaces in the Bay Area
-* Gaming on my PS5 or Switch
+## Let's Connect!
+Feel free to explore my repositories, check out my projects, and connect with me to collaborate on exciting ventures. Let's embark on a journey of innovation and learning together! 🚀
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://coucode.github.io/#)
+[![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/cecilia-ou)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ceciliasou)
+
 
 ## Stats
 ![](https://komarev.com/ghpvc/?username=coucode&color=71d4d2&style=for-the-badge)
